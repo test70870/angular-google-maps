@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "@agm/drawing@3.0.0-beta.0",
+      "/home/amrikjakhu/Desktop/Projects/lineguide/LG-FrontEnd-Web"
+    ]
+  ],
+  "_from": "@agm/drawing@3.0.0-beta.0",
+  "_id": "@agm/drawing@3.0.0-beta.0",
+  "_inBundle": false,
+  "_integrity": "sha512-nH21ILLvcp92om4ZGadSKAUofbRpnTMyBRewFvLkZpaqpMvzjfhev19mDtOWFewdHEsRLwgjmXwNexcuxAXNIg==",
+  "_location": "/@agm/drawing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@agm/drawing@3.0.0-beta.0",
+    "name": "@agm/drawing",
+    "escapedName": "@agm%2fdrawing",
+    "scope": "@agm",
+    "rawSpec": "3.0.0-beta.0",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0-beta.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@agm/drawing/-/drawing-3.0.0-beta.0.tgz",
+  "_spec": "3.0.0-beta.0",
+  "_where": "/home/amrikjakhu/Desktop/Projects/lineguide/LG-FrontEnd-Web",
+  "author": {
+    "name": "Feliks Khantsis"
+  },
+  "bugs": {
+    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "description": "Angular Google Maps (AGM) extension for google maps drawing library",
+  "es2015": "fesm2015/agm-drawing.js",
+  "esm2015": "esm2015/agm-drawing.js",
+  "fesm2015": "fesm2015/agm-drawing.js",
+  "homepage": "https://angular-maps.com",
+  "keywords": [
+    "angular-google-maps",
+    "angular",
+    "google-maps",
+    "agm",
+    "map-drawing"
+  ],
+  "license": "MIT",
+  "main": "bundles/agm-drawing.umd.js",
+  "metadata": "agm-drawing.metadata.json",
+  "module": "fesm2015/agm-drawing.js",
+  "name": "@agm/drawing",
+  "peerDependencies": {
+    "@angular/common": "^9.1.0 || ^10.0.0",
+    "@angular/core": "^9.1.0 || ^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianM/angular-google-maps.git"
+  },
+  "sideEffects": false,
+  "typings": "agm-drawing.d.ts",
+  "version": "3.0.0-beta.0",
+  "__processed_by_ivy_ngcc__": {
+    "es2015": "12.2.17",
+    "esm2015": "12.2.17",
+    "fesm2015": "12.2.17",
+    "main": "12.2.17",
+    "module": "12.2.17",
+    "typings": "12.2.17"
+  },
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by NGCC. This is not allowed.\\nPlease delete and rebuild the package, without compiling with NGCC, before attempting to publish.\\nNote that NGCC may have been run by importing this package into another project that is being built with Ivy enabled.\\n')\" && exit 1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_args": [
+    [
+      "@agm/js-marker-clusterer@1.1.0",
+      "/home/amrikjakhu/Desktop/Projects/lineguide/LG-FrontEnd-Web"
+    ]
+  ],
+  "_from": "@agm/js-marker-clusterer@1.1.0",
+  "_id": "@agm/js-marker-clusterer@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-BLgzmYlRP8ApWwyt6N8/jlHESn4LQVWCGFGBu+7gR6hZHqpxyeU9p0ptNEGBORuyZE5O3r5N4yTJFLtvYwjA4g==",
+  "_location": "/@agm/js-marker-clusterer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@agm/js-marker-clusterer@1.1.0",
+    "name": "@agm/js-marker-clusterer",
+    "escapedName": "@agm%2fjs-marker-clusterer",
+    "scope": "@agm",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@agm/js-marker-clusterer/-/js-marker-clusterer-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "/home/amrikjakhu/Desktop/Projects/lineguide/LG-FrontEnd-Web",
+  "author": {
+    "name": "Jens Fahnenbruck",
+    "email": "jigfox@me.com"
+  },
+  "bugs": {
+    "url": "https://github.com/SebastianM/angular-google-maps/issues"
+  },
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "description": "Angular Google Maps (AGM) extension for js-marker-clusterer support",
+  "es2015": "fesm2015/agm-js-marker-clusterer.js",
+  "esm2015": "esm2015/agm-js-marker-clusterer.js",
+  "esm5": "esm5/agm-js-marker-clusterer.js",
+  "fesm2015": "fesm2015/agm-js-marker-clusterer.js",
+  "fesm5": "fesm5/agm-js-marker-clusterer.js",
+  "homepage": "https://angular-maps.com",
+  "keywords": [
+    "angular-google-maps",
+    "angular",
+    "js-marker-clusterer",
+    "google-maps",
+    "agm"
+  ],
+  "license": "MIT",
+  "main": "bundles/agm-js-marker-clusterer.umd.js",
+  "metadata": "agm-js-marker-clusterer.metadata.json",
+  "module": "fesm5/agm-js-marker-clusterer.js",
+  "name": "@agm/js-marker-clusterer",
+  "peerDependencies": {
+    "@angular/core": "^6.0.0 || ^7.0.0 || ^8.0.0",
+    "@agm/core": "^1.0.0-beta.7",
+    "js-marker-clusterer": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianM/angular-google-maps.git"
+  },
+  "sideEffects": false,
+  "typings": "agm-js-marker-clusterer.d.ts",
+  "version": "1.1.0"
+}
