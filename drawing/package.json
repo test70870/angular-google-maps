@@ -55,8 +55,8 @@
   "module": "fesm2015/agm-drawing.js",
   "name": "@agm/drawing",
   "peerDependencies": {
-    "@angular/common": "^9.1.0 || ^10.0.0",
-    "@angular/core": "^9.1.0 || ^10.0.0"
+    "@angular/common": "^15.0.0 || ^16.0.0",
+    "@angular/core": "^15.0.0 || ^16.0.0"
   },
   "repository": {
     "type": "git",
